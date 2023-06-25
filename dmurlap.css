@@ -1,0 +1,40 @@
+.keret{
+    width: 650px;height: 950px;
+    background-color: white;
+    margin: 10px;
+    padding-right: 30px;padding-left: 30px; padding-top: 20px;
+    line-height: 150%;
+    font-family: Helvetica,
+}
+h1{
+    text-align: center;
+}
+
+#név{
+    width: 50%;
+    float: left
+}
+#név1{
+    width: 50%;
+    float: right
+}
+body{
+     font-size: large;
+}
+
+#tovább{ width: 80px; height: 44px;
+    float: right;
+    color: white;
+    background-color: rgb(47, 47, 81);
+    border-radius: 90%;
+    font-size: large;
+    border: 0px;
+    
+}
+input{
+    width: 280px; height: 30px;
+    
+}
+#ászf, #hirlevél, #megsz{
+    width: 20px; height: fit-content;
+}
